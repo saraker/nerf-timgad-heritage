@@ -22,6 +22,7 @@ Due to file size constraints, the following are hosted externally:
 | Input Dataset | Video-extracted frames (377 images, Arch of Trajan) | 
 | Rendered Outputs | NeRF-synthesized novel views and flythrough videos |
 |Link |- 📁 **Google Drive:** [Timgad](https://drive.google.com/file/d/1r2gY4bcNHx7W10uolMZHeWXb6xhhs19C/view?usp=sharing)
+Timgad Scene | [Timgad](https://drive.google.com/file/d/1r2gY4bcNHx7W10uolMZHeWXb6xhhs19C/view?usp=sharing)
 
 ## 🔧 Methodology
 
